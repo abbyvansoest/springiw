@@ -1,0 +1,25 @@
+Country		Abbrv.		Word Count 		File Size
+
+Australia		au 		102,734,106 	575 MB
+Bangladesh		bd 		38,672,167 		222 MB
+Canada		ca 			131,828,626		737 MB
+GB-Blog		gb_blog		127,494,139		699 MB
+GB-General	gb_genl		249,087,606		1.38 GB
+Ghana		gh 			37,837,561 		215 MB
+Hong Kong	hk			39,601,786		226 MB
+India		in 			94,143,374		530 MB
+Ireland		ie 			98,496,493		547 MB
+Jamaica		jm 			38,713,703		218 MB
+Kenya		ke 			40,001,194		228 MB
+Malaysia	my 			40,636,866		225 MB
+New Zealand	nz 			79,245,063		442 MB
+Nigeria		ng 			41,499,739		231 MB
+Pakistan	pk 			50,016,608		280 MB
+Philippines	ph 			42,183,707		233 MB
+Singapore	sg 			41,893,448		231 MB
+South Africa	za 		46,130,124		261 MB
+Sri Lanka	lk 			45,317,074		259 MB
+Tanzania	tz 			34,283,359		197 MB
+US-Blog		us_blog		129,636,981		753 MB
+US-General	us_genl 	248,662,276		1.38 GB
+

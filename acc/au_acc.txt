@@ -1,0 +1,43 @@
+capital-common-countries:
+ACCURACY TOP1: 88.54 %  (448 / 506)
+Total accuracy: 88.54 %   Semantic accuracy: 88.54 %   Syntactic accuracy: -nan % 
+capital-world:
+ACCURACY TOP1: 58.24 %  (1651 / 2835)
+Total accuracy: 62.83 %   Semantic accuracy: 62.83 %   Syntactic accuracy: -nan % 
+currency:
+ACCURACY TOP1: 3.71 %  (17 / 458)
+Total accuracy: 55.70 %   Semantic accuracy: 55.70 %   Syntactic accuracy: -nan % 
+city-in-state:
+ACCURACY TOP1: 43.14 %  (950 / 2202)
+Total accuracy: 51.09 %   Semantic accuracy: 51.09 %   Syntactic accuracy: -nan % 
+family:
+ACCURACY TOP1: 64.29 %  (297 / 462)
+Total accuracy: 52.03 %   Semantic accuracy: 52.03 %   Syntactic accuracy: -nan % 
+gram1-adjective-to-adverb:
+ACCURACY TOP1: 25.40 %  (252 / 992)
+Total accuracy: 48.49 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 25.40 % 
+gram2-opposite:
+ACCURACY TOP1: 31.65 %  (257 / 812)
+Total accuracy: 46.84 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 28.22 % 
+gram3-comparative:
+ACCURACY TOP1: 84.31 %  (1123 / 1332)
+Total accuracy: 52.04 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 52.04 % 
+gram4-superlative:
+ACCURACY TOP1: 38.50 %  (432 / 1122)
+Total accuracy: 50.62 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 48.47 % 
+gram5-present-participle:
+ACCURACY TOP1: 72.06 %  (761 / 1056)
+Total accuracy: 52.54 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 53.16 % 
+gram6-nationality-adjective:
+ACCURACY TOP1: 75.99 %  (1098 / 1445)
+Total accuracy: 55.11 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 58.04 % 
+gram7-past-tense:
+ACCURACY TOP1: 52.31 %  (816 / 1560)
+Total accuracy: 54.81 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 56.97 % 
+gram8-plural:
+ACCURACY TOP1: 73.12 %  (974 / 1332)
+Total accuracy: 56.32 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 59.20 % 
+gram9-plural-verbs:
+ACCURACY TOP1: 34.14 %  (297 / 870)
+Total accuracy: 55.19 %   Semantic accuracy: 52.03 %   Syntactic accuracy: 57.12 % 
+Questions seen / total: 16984 19544   86.90 % 

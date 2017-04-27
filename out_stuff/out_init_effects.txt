@@ -1,0 +1,120 @@
+~~~~~~~~~~~~~~ au_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.1806
+music/weapon effect size: 1.3468
+man/woman career/family effect size: 0.7016
+art/math: 0.8807
+~~~~~~~~~~~~~~ bd_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.206
+music/weapon effect size: 1.2541
+man/woman career/family effect size: 0.7073
+art/math: 0.338
+~~~~~~~~~~~~~~ ca_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.4939
+music/weapon effect size: 1.5743
+man/woman career/family effect size: 0.6663
+art/math: 0.9592
+~~~~~~~~~~~~~~ gb_blog_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.2679
+music/weapon effect size: 1.6324
+man/woman career/family effect size: 0.7498
+art/math: 0.7244
+~~~~~~~~~~~~~~ gb_genl_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.5635
+music/weapon effect size: 1.609
+man/woman career/family effect size: 0.7727
+art/math: 0.6946
+~~~~~~~~~~~~~~ gh_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.0033
+music/weapon effect size: 1.315
+man/woman career/family effect size: 0.5885
+art/math: 0.2181
+~~~~~~~~~~~~~~ hk_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 0.784
+music/weapon effect size: 1.5045
+man/woman career/family effect size: 0.5331
+art/math: 0.136
+~~~~~~~~~~~~~~ ie_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.3224
+music/weapon effect size: 1.4158
+man/woman career/family effect size: 0.7435
+art/math: 0.5798
+~~~~~~~~~~~~~~ in_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.0873
+music/weapon effect size: 1.5516
+man/woman career/family effect size: 0.787
+art/math: 0.1458
+~~~~~~~~~~~~~~ jm_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.2323
+music/weapon effect size: 1.4362
+man/woman career/family effect size: 0.5625
+art/math: 0.1376
+~~~~~~~~~~~~~~ ke_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.1733
+music/weapon effect size: 1.4416
+man/woman career/family effect size: 0.5206
+art/math: 0.3794
+~~~~~~~~~~~~~~ lk_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.2068
+music/weapon effect size: 1.5037
+man/woman career/family effect size: 0.7068
+art/math: 0.031
+~~~~~~~~~~~~~~ my_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.051
+music/weapon effect size: 1.379
+man/woman career/family effect size: 0.5303
+art/math: 0.106
+~~~~~~~~~~~~~~ ng_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.2941
+music/weapon effect size: 1.4516
+man/woman career/family effect size: 0.7088
+art/math: 0.6063
+~~~~~~~~~~~~~~ nz_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.1917
+music/weapon effect size: 1.4123
+man/woman career/family effect size: 0.5977
+art/math: 0.7519
+~~~~~~~~~~~~~~ ph_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.2824
+music/weapon effect size: 1.552
+man/woman career/family effect size: 0.6675
+art/math: 0.091
+~~~~~~~~~~~~~~ pk_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.0454
+music/weapon effect size: 1.5364
+man/woman career/family effect size: 0.7246
+art/math: 0.9867
+~~~~~~~~~~~~~~ sg_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.411
+music/weapon effect size: 1.3168
+man/woman career/family effect size: 0.6383
+art/math: 0.0161
+~~~~~~~~~~~~~~ tz_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.0686
+music/weapon effect size: 1.3194
+man/woman career/family effect size: 0.541
+art/math: 0.007
+~~~~~~~~~~~~~~ us_blog_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.2239
+music/weapon effect size: 1.4747
+man/woman career/family effect size: 0.6534
+art/math: 0.5856
+~~~~~~~~~~~~~~ us_genl_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.4367
+music/weapon effect size: 1.6089
+man/woman career/family effect size: 0.7008
+art/math: 0.7834
+~~~~~~~~~~~~~~ za_vectors.bin ~~~~~~~~~~~~~~
+insect/flower effect size: 1.214
+music/weapon effect size: 1.4066
+man/woman career/family effect size: 0.6954
+art/math: 0.0409
+
+
+['ant', 'caterpillar', 'flea', 'locust', 'spider', 'centipede', 'fly', 'maggot', 'bee', 'cockroach', 'gnat', 'mosquito', 'termite', 'beetle', 'cricket', 'hornet', 'moth', 'wasp', 'dragonfly', 'roach', 'weevil']
+['aster', 'clover', 'hyacinth', 'marigold', 'poppy', 'azalea', 'iris', 'orchid', 'rose', 'bluebell', 'daffodil', 'lilac', 'pansy', 'tulip', 'daisy', 'lily', 'peony', 'violet', 'carnation', 'magnolia']
+['caress', 'freedom', 'health', 'love', 'peace', 'cheer', 'friend', 'heaven', 'loyal', 'pleasure', 'diamond', 'gentle', 'honest', 'lucky', 'rainbow', 'diploma', 'gift', 'honor', 'miracle', 'sunrise', 'family', 'happy', 'laughter', 'paradise', 'vacation']
+['abuse', 'crash', 'filth', 'murder', 'sickness', 'accident', 'death', 'grief', 'poison', 'stink', 'assault', 'disaster', 'hatred', 'pollute', 'tragedy', 'divorce', 'jail', 'poverty', 'ugly', 'cancer', 'kill', 'rotten', 'vomit', 'agony', 'prison']
+['he', 'man', 'male', 'his', 'him', 'boy', 'son', 'brother', 'father', 'uncle']
+['she', 'woman', 'female', 'her', 'hers', 'girl', 'daughter', 'mother', 'sister', 'aunt']
+['executive', 'management', 'professional', 'corporation', 'salary', 'office', 'business', 'career']
+['home', 'parents', 'children', 'family', 'cousins', 'marriage', 'wedding', 'relatives']

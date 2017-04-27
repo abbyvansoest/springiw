@@ -1,0 +1,86 @@
+PK VS THE WORLD
+
+~~~~~~~~~~~~~~ au_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.7493
+
+
+~~~~~~~~~~~~~~ bd_vectors.bin ~~~~~~~~~~~~~~
+effect size: 1.0203
+
+
+~~~~~~~~~~~~~~ ca_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.6346
+
+
+~~~~~~~~~~~~~~ gb_blog_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.2723
+
+
+~~~~~~~~~~~~~~ gb_genl_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.8919
+
+
+~~~~~~~~~~~~~~ gh_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.4147
+
+
+~~~~~~~~~~~~~~ hk_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.9104
+
+
+~~~~~~~~~~~~~~ ie_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.4364
+
+
+~~~~~~~~~~~~~~ in_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.9904
+
+
+~~~~~~~~~~~~~~ jm_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.6998
+
+
+~~~~~~~~~~~~~~ ke_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.4457
+
+
+~~~~~~~~~~~~~~ lk_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.421
+
+
+~~~~~~~~~~~~~~ my_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.8288
+
+
+~~~~~~~~~~~~~~ ng_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.3631
+
+
+~~~~~~~~~~~~~~ nz_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.8225
+
+
+~~~~~~~~~~~~~~ ph_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.8075
+
+
+~~~~~~~~~~~~~~ sg_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.8002
+
+
+~~~~~~~~~~~~~~ tz_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.3028
+
+
+~~~~~~~~~~~~~~ us_blog_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.0006
+
+
+~~~~~~~~~~~~~~ us_genl_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.2673
+
+
+~~~~~~~~~~~~~~ za_vectors.bin ~~~~~~~~~~~~~~
+effect size: 0.5394
+
+

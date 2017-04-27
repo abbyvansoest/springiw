@@ -1,0 +1,43 @@
+capital-common-countries:
+ACCURACY TOP1: 83.40 %  (422 / 506)
+Total accuracy: 83.40 %   Semantic accuracy: 83.40 %   Syntactic accuracy: -nan % 
+capital-world:
+ACCURACY TOP1: 70.86 %  (2473 / 3490)
+Total accuracy: 72.45 %   Semantic accuracy: 72.45 %   Syntactic accuracy: -nan % 
+currency:
+ACCURACY TOP1: 6.77 %  (31 / 458)
+Total accuracy: 65.69 %   Semantic accuracy: 65.69 %   Syntactic accuracy: -nan % 
+city-in-state:
+ACCURACY TOP1: 47.77 %  (1052 / 2202)
+Total accuracy: 59.77 %   Semantic accuracy: 59.77 %   Syntactic accuracy: -nan % 
+family:
+ACCURACY TOP1: 72.51 %  (335 / 462)
+Total accuracy: 60.59 %   Semantic accuracy: 60.59 %   Syntactic accuracy: -nan % 
+gram1-adjective-to-adverb:
+ACCURACY TOP1: 18.25 %  (181 / 992)
+Total accuracy: 55.41 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 18.25 % 
+gram2-opposite:
+ACCURACY TOP1: 30.95 %  (234 / 756)
+Total accuracy: 53.33 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 23.74 % 
+gram3-comparative:
+ACCURACY TOP1: 88.89 %  (1184 / 1332)
+Total accuracy: 57.97 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 51.92 % 
+gram4-superlative:
+ACCURACY TOP1: 53.03 %  (595 / 1122)
+Total accuracy: 57.48 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 52.21 % 
+gram5-present-participle:
+ACCURACY TOP1: 76.14 %  (804 / 1056)
+Total accuracy: 59.07 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 57.02 % 
+gram6-nationality-adjective:
+ACCURACY TOP1: 68.44 %  (1041 / 1521)
+Total accuracy: 60.10 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 59.58 % 
+gram7-past-tense:
+ACCURACY TOP1: 54.49 %  (850 / 1560)
+Total accuracy: 59.53 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 58.63 % 
+gram8-plural:
+ACCURACY TOP1: 70.50 %  (939 / 1332)
+Total accuracy: 60.40 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 60.26 % 
+gram9-plural-verbs:
+ACCURACY TOP1: 45.86 %  (399 / 870)
+Total accuracy: 59.69 %   Semantic accuracy: 60.59 %   Syntactic accuracy: 59.07 % 
+Questions seen / total: 17659 19544   90.36 % 

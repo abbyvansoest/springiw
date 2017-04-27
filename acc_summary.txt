@@ -1,0 +1,66 @@
+==> au_acc.txt <==
+Questions seen / total: 16984 19544   86.90 % 
+
+==> bd_acc.txt <==
+Questions seen / total: 16209 19544   82.94 % 
+
+==> ca_acc.txt <==
+Questions seen / total: 17940 19544   91.79 % 
+
+==> gb_blog_acc.txt <==
+Questions seen / total: 17971 19544   91.95 % 
+
+==> gb_genl_acc.txt <==
+Questions seen / total: 18997 19544   97.20 % 
+
+==> gh_acc.txt <==
+Questions seen / total: 16090 19544   82.33 % 
+
+==> hk_acc.txt <==
+Questions seen / total: 15882 19544   81.26 % 
+
+==> ie_acc.txt <==
+Questions seen / total: 17320 19544   88.62 % 
+
+==> in_acc.txt <==
+Questions seen / total: 17659 19544   90.36 % 
+
+==> jm_acc.txt <==
+Questions seen / total: 16050 19544   82.12 % 
+
+==> ke_acc.txt <==
+Questions seen / total: 17070 19544   87.34 % 
+
+==> lk_acc.txt <==
+Questions seen / total: 15438 19544   78.99 % 
+
+==> my_acc.txt <==
+Questions seen / total: 15784 19544   80.76 % 
+
+==> ng_acc.txt <==
+Questions seen / total: 16212 19544   82.95 % 
+
+==> nz_acc.txt <==
+Questions seen / total: 16597 19544   84.92 % 
+
+==> ph_acc.txt <==
+Questions seen / total: 15879 19544   81.25 % 
+
+==> pk_acc.txt <==
+Questions seen / total: 15680 19544   80.23 % 
+
+==> sg_acc.txt <==
+Questions seen / total: 15946 19544   81.59 % 
+
+==> tz_acc.txt <==
+Questions seen / total: 16558 19544   84.72 % 
+
+==> us_blog_acc.txt <==
+Questions seen / total: 17860 19544   91.38 % 
+
+==> us_genl_acc.txt <==
+Questions seen / total: 18667 19544   95.51 % 
+
+==> za_acc.txt <==
+Questions seen / total: 15646 19544   80.06 % 
+
